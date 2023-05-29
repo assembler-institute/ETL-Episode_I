@@ -11,6 +11,11 @@ Inside a folder called "Entorno" (or the name you want), create the following fo
 - "" and "Trusted"
 
 
+Observation:
+
+In the second part of the LiveCodings (ETL_Episode_I_Part_II.mp4), to inspect a page you can right click and click inspect, or press F12.
+
+
 
 
 Por el momento creamos sources, y raw.
