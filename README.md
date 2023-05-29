@@ -1,13 +1,18 @@
 # ETL-Episode_I
 
-Prepare your workspace!
+To Follow the second video, you will have to set up your workspace!
 
-Inside a folder called "Entorno", create the following foders: 
+Inside a folder called "Entorno" (or the name you want), create the following foders: 
 
-- "raw": donde pondrás el Notook .ipynb troncal para seguir el LiveCoding.
+- "raw": where you will put the main Notook .ipynb to follow the LiveCoding.
  
-- "sources": donde pondrás los archivos .csv, .txt, .xlsx, .docx, etc.
+- "sources": where you will put the files of type .csv, .txt, .xlsx, .docx, etc.
 
 - "" and "Trusted"
 
-Por el momento creamos sources, donde pondrás los archivos .csv, .txt, .xlsx, .docx, etc.
+
+
+
+Por el momento creamos sources, y raw.
+
+
