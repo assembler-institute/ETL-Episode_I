@@ -1,6 +1,6 @@
 # ETL-Episode_I
 
-To Follow the second video, you will have to set up your workspace!
+To follow the second video, you will have to set up your workspace!
 
 Inside a folder called "Entorno" (or the name you want), create the following foders: 
 
