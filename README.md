@@ -2,13 +2,13 @@
 
 To follow the second video, you will have to set up your workspace!
 
-Inside a folder called "Entorno" (or the name you want), create the following foders: 
+Inside a folder called "Entorno" (Or wherever you would like to put it), create the following foders: 
 
 - "raw": where you will put the main Notook .ipynb to follow the LiveCoding.
  
 - "sources": where you will put the files of type .csv, .txt, .xlsx, .docx, etc.
 
-- "" and "Trusted"
+- "" and "Trusted"      ---> Dónde está esta info?
 
 
 Observation:
@@ -18,6 +18,6 @@ In the second part of the LiveCodings (ETL_Episode_I_Part_II.mp4), to inspect a 
 
 
 
-Por el momento creamos sources, y raw.
+Por el momento creamos sources, y raw.   Resolver 3er punto
 
 
