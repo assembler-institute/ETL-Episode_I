@@ -1,6 +1,6 @@
 # ETL-Episode_I
 
-You can follow the second video with "1-Data_Extraction.ipynb".
+## You can follow the second video with "1-Data_Extraction.ipynb".
 
 First of all you will have to set up your workspace!
 
@@ -23,3 +23,6 @@ In the second part of the LiveCodings (ETL_Episode_I_Part_II.mp4), to inspect a 
 Por el momento creamos sources, y raw.   Resolver 3er punto
 
 
+
+
+## You can follow the third video with "2-Data_Extraction_Scrapping.ipynb"
