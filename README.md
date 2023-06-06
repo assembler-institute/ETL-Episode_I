@@ -1,8 +1,10 @@
 # ETL-Episode_I
 
-To follow the second video, you will have to set up your workspace!
+You can follow the second video with "1-Data_Extraction.ipynb".
 
-Inside a folder called "Entorno" (Or wherever you would like to put it), create the following foders: 
+First of all you will have to set up your workspace!
+
+Inside a folder called "Entorno" (or wherever you would like to put it), create the following foders: 
 
 - "raw": where you will put the main Notook .ipynb to follow the LiveCoding.
  
