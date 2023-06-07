@@ -1,4 +1,4 @@
-# ETL-Episode_I
+# ETL-Episode_II
 
 #### You can follow the second video with "1-Data_Extraction.ipynb".
 
@@ -15,7 +15,7 @@ Inside a folder called "Entorno" (or wherever you would like to put it), create 
 
 Observation:
 
-In the second part of the LiveCodings (ETL_Episode_I_Part_II.mp4), to inspect a page you can right click and click inspect, or press F12.
+In the second part of the LiveCodings ("ETL_Episode_I_Part_II.mp4"), to inspect a page you can right click and click inspect, or press F12.
 
 
 
