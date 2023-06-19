@@ -1,28 +1,43 @@
 # ETL-Episode_II
 
-#### You can follow the second video with "1-Data_Extraction.ipynb".
+This repository contains notebooks and resources related to data extraction in an ETL processes. 
 
-First of all you will have to set up your workspace!
-
-Inside a folder called "Entorno" (or wherever you would like to put it), create the following foders: 
-
-- "raw": where you will put the main Notook .ipynb to follow the LiveCoding.
- 
-- "sources": where you will put the files of type .csv, .txt, .xlsx, .docx, etc.
-
-- "" and "Trusted"      ---> Dónde está esta info?
+Below is a brief overview of the contents:
 
 
-Observation:
+## Notebooks
 
-In the second part of the LiveCodings ("ETL_Episode_I_Part_II.mp4"), to inspect a page you can right click and click inspect, or press F12.
+1-Data_Extraction.ipynb: This notebook guides you through the process of data extraction from various sources using different techniques. This notebook is to follow the LiveCoding session titled "ETL_Episode_II_Part_I.mp4".
+
+2-Data_Extraction_Scrapping.ipynb: In this notebook, you will learn how to perform data extraction through web scraping, specifically focusing on extracting data from HTML pages. This notebook is to follow the LiveCoding session titled "ETL_Episode_II_Part_II.mp4".
+
+3-Exercises.ipynb: This notebook provides a set of exercises to practice and reinforce the concepts covered in the previous notebooks.
+
+**Observation:** For the LiveCodings, to inspect a page you can right click and click inspect, or press F12.
 
 
+## Folders
+
+- Images: This folder contains images used in the notebooks for visualizations or illustrations.
+
+- Sources: Here, you can place the source files such as CSV, TXT, XLSX, DOCX, etc., which will be used for data extraction.
 
 
-Por el momento creamos sources, y raw.   Resolver 3er punto
+## Setting Up the Workspace
+
+To get started, follow the instructions below:
+
+1- Create a folder called "Entorno" (or any other name of your choice) to set up your workspace.
+
+2- Inside the "Entorno" folder, create the following subfolders:
+
+    - "raw": This folder will contain the main notebook file for the LiveCoding sessions.
+    - "sources": Place the source files in this folder.
+    - "std": This folder is intended for storing standardized data.
+    - "trusted": This folder is for storing trusted and validated data.
+
+**Note:** Before starting the LiveCoding session, ensure that you have correctly placed the required source files in the appropriate "Entorno" folder.
 
 
+Feel free to explore the notebooks, modify the code, and use the provided resources to learn and practice ETL techniques.
 
-
-#### You can follow the third video with "2-Data_Extraction_Scrapping.ipynb"
