@@ -1,28 +1,16 @@
-# ETL-Episode_II
+# ETL-Episode_II (solutions branch)
 
-#### You can follow the second video with "1-Data_Extraction.ipynb".
+This branch contains the solutions for the exercises in the "3-Excercices.ipynb" notebook.
 
-First of all you will have to set up your workspace!
+## Notebooks
 
-Inside a folder called "Entorno" (or wherever you would like to put it), create the following foders: 
+- Solution_Ex1.ipynb
+- Solution_Ex2.ipynb
+- Solution_Ex3.ipynb
+- Solution_Ex4.ipynb
 
-- "raw": where you will put the main Notook .ipynb to follow the LiveCoding.
- 
-- "sources": where you will put the files of type .csv, .txt, .xlsx, .docx, etc.
+Feel free to explore these notebooks to understand the solutions and learn from them.
 
-- "" and "Trusted"      ---> Dónde está esta info?
+Please note that these notebooks are provided as solutions and should be used for reference purposes after attempting the exercises on your own.
 
-
-Observation:
-
-In the second part of the LiveCodings ("ETL_Episode_I_Part_II.mp4"), to inspect a page you can right click and click inspect, or press F12.
-
-
-
-
-Por el momento creamos sources, y raw.   Resolver 3er punto
-
-
-
-
-#### You can follow the third video with "2-Data_Extraction_Scrapping.ipynb"
+Happy learning!
