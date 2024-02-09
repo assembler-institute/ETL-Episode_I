@@ -39,5 +39,9 @@ To get started, follow the instructions below:
 **Note:** Before starting the LiveCoding session, ensure that you have correctly placed the required source files in the appropriate "Entorno" folder.
 
 
+## Solutions
+
+Solutions can be found in the branch "solutions".
+
 Feel free to explore the notebooks, modify the code, and use the provided resources to learn and practice ETL techniques.
 
