@@ -8,6 +8,8 @@ This branch contains the solutions for the exercises in the "3-Excercices.ipynb"
 - Solution_Ex2.ipynb
 - Solution_Ex3.ipynb
 - Solution_Ex4.ipynb
+- Solution_Ex5.ipynb
+- Solution_Ex5.ipynb
 
 Feel free to explore these notebooks to understand the solutions and learn from them.
 
