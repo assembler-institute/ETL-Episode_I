@@ -44,4 +44,3 @@ To get started, follow the instructions below:
 Solutions can be found in the branch "solutions".
 
 Feel free to explore the notebooks, modify the code, and use the provided resources to learn and practice ETL techniques.
-
